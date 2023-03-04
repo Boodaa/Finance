@@ -17,3 +17,6 @@
 
 # Mapping
    ![Mapping](https://user-images.githubusercontent.com/121688823/222915305-51f9b942-448f-4cf6-9b8a-97170c2660f6.png)
+
+# Video of the project's dashboards 
+https://user-images.githubusercontent.com/121688823/222915752-ff964f43-06cf-41af-9853-66255ac7df9a.mp4
