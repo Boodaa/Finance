@@ -10,9 +10,9 @@
    - Create all needed measures using DAX
    - Create Measures for prediction
    - Draw manually suitable charts
-   - Create Dashboard including prediction for business;
+   - Create Dashboard including prediction for business
 
-#ERD Diagram
+# Steps
    ![ERD](https://user-images.githubusercontent.com/121688823/222915302-d4ef81e0-4d92-4f56-aa89-a01f278c6809.png)
 
 #Mapping
