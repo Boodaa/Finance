@@ -1,13 +1,13 @@
 # Finance PowerPI Project
 # Steps
-   • Building ERD Diagram and Schemas in SQL Server 
-   • Creating Database Using SQL Server 
-   • Extracting Dataset From Excel To SQL Server
-   • Transforming and Analyzing Data Using SSMS
-   • Loading to Power BI after being prepared 
-   • Data Modelling Using Dax in Power BI
-   • Creating Prediction Model to predict The Revenue and Gross for next year 
-   • Data Visualization Using Power BI
+   - Building ERD Diagram and Schemas in SQL Server 
+   - Creating Database Using SQL Server 
+   - Extracting Dataset From Excel To SQL Server
+   - Transforming and Analyzing Data Using SSMS
+   - Loading to Power BI after being prepared 
+   - Data Modelling Using Dax in Power BI
+   - Creating Prediction Model to predict The Revenue and Gross for next year 
+   - Data Visualization Using Power BI
 
 
 # ERD Diagram
