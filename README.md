@@ -1,16 +1,14 @@
 # Finance PowerPI Project
 # Steps
-   - Create database
-   - importing data to database
-   - Create ERD and mapping
-   - Extract data from DB using power BI
-   - Cleaning and Exploring data
-   - Ask suitable questions
-   - Extract Suitable insights
-   - Create all needed measures using DAX
-   - Create Measures for prediction
-   - Draw manually suitable charts
-   - Create Dashboard including prediction for business
+   • Building ERD Diagram and Schemas in SQL Server 
+   • Creating Database Using SQL Server 
+   • Extracting Dataset From Excel To SQL Server
+   • Transforming and Analyzing Data Using SSMS
+   • Loading to Power BI after being prepared 
+   • Data Modelling Using Dax in Power BI
+   • Creating Prediction Model to predict The Revenue and Gross for next year 
+   • Data Visualization Using Power BI
+
 
 # ERD Diagram
    ![ERD](https://user-images.githubusercontent.com/121688823/222915302-d4ef81e0-4d92-4f56-aa89-a01f278c6809.png)
